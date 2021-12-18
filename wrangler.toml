@@ -1,0 +1,13 @@
+name = "blog-kv"
+type = "webpack"
+
+account_id = ""
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2021-12-18"
+webpack_config = "webpack.config.js"
+
+kv_namespaces = [
+         { binding = "blogKVP", preview_id = "c052f47351de4345b2245a7e7f787a79" }
+]
